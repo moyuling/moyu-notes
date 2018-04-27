@@ -1,6 +1,6 @@
 ## 【01】语法
 
-[markdown语法](http://www.cnblogs.com/moyuling/p/8965716.html)
++ [markdown语法](http://www.cnblogs.com/moyuling/p/8965716.html)
 
 分类如下：
 
