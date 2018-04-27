@@ -20,3 +20,8 @@
 ### 阅读相关
 
 
+### 浏览器相关
+
++ [Chrome提示印象笔记剪藏插件"已停用不支持的扩展程序"怎么办？](http://www.cnblogs.com/moyuling/p/8965736.html)
+
+
