@@ -1,6 +1,8 @@
-# moyu-notes
-魔芋的笔记
+# moyu's blog
 
 > Learning is a game, I'm addicted to it
 
-- [markdown学习记录](markdown/markdown.md)
++ [markdown学习记录](subMenu/markdown.md)
+
++ [github学习记录](subMenu/github.md)
+
