@@ -2,6 +2,9 @@
 
 > Learning is a game, I'm addicted to it
 
+### HTML5
+
++ [H5之地理位置（必知必会）](http://www.cnblogs.com/moyuling/p/8965192.html)
 
 
 ### 工具相关
@@ -16,5 +19,4 @@
 
 ### 阅读相关
 
-+ [RSS相关信息](subMenu/rss.md)
 
