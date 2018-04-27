@@ -1,52 +1,58 @@
 ## 【01】语法
 
-+ <a target="_blank" href="https://moyuling.github.io/blog/menu/markdown/【01】语法/【02】段落和换行.html">【02】段落和换行</a>
+[markdown语法](http://www.cnblogs.com/moyuling/p/8965716.html)
 
-+ <a target="_blank" href="https://moyuling.github.io/blog/menu/markdown/【01】语法/【03】标题.html">【03】标题</a>
+分类如下：
 
-+ <a target="_blank" href="https://moyuling.github.io/blog/menu/markdown/【01】语法/【04】区块引用 Blockquotes.html">【04】区块引用 Blockquotes</a>
+【02】段落和换行
 
-+ <a target="_blank" href="https://moyuling.github.io/blog/menu/markdown/【01】语法/【05】列表.html">【05】列表</a>
+【03】标题
 
-+ <a target="_blank" href="https://moyuling.github.io/blog/menu/markdown/【01】语法/【06】代码区块.html">【06】代码区块</a>
+【04】区块引用 Blockquotes
 
-+ <a target="_blank" href="https://moyuling.github.io/blog/menu/markdown/【01】语法/【07】分隔线.html">【07】分隔线</a>
+【05】列表
 
-+ <a target="_blank" href="https://moyuling.github.io/blog/menu/markdown/【01】语法/【08】区段元素.html">【08】区段元素</a>
+【06】代码区块
 
-+ <a target="_blank" href="https://moyuling.github.io/blog/menu/markdown/【01】语法/【09】格式化.html">【09】格式化</a>
+【07】分隔线
 
-+ <a target="_blank" href="https://moyuling.github.io/blog/menu/markdown/【01】语法/【10】代码.html">【10】代码</a>
+【08】区段元素
 
-+ <a target="_blank" href="https://moyuling.github.io/blog/menu/markdown/【01】语法/【11】图片.html">【11】图片</a>
+【09】格式化
 
-+ <a target="_blank" href="https://moyuling.github.io/blog/menu/markdown/【01】语法/【12】自动链接.html">【12】自动链接</a>
+【10】代码
 
-+ <a target="_blank" href="https://moyuling.github.io/blog/menu/markdown/【01】语法/【13】反斜杠.html">【13】反斜杠</a>
+【11】图片
 
-+ <a target="_blank" href="https://moyuling.github.io/blog/menu/markdown/【01】语法/【14】链接到其他人（github）.html">【14】链接到其他人（github）</a>
+【12】自动链接
 
-+ <a target="_blank" href="https://moyuling.github.io/blog/menu/markdown/【01】语法/【15】github特有语法.html">【15】github特有语法</a>
+【13】反斜杠
 
-+ <a target="_blank" href="https://moyuling.github.io/blog/menu/markdown/【01】语法/【16】多选项checkbox.html">【16】多选项checkbox</a>
+【14】链接到其他人（github）
 
-+ <a target="_blank" href="https://moyuling.github.io/blog/menu/markdown/【01】语法/【17】表格.html">【17】表格</a>
+【15】github特有语法
+
+【16】多选项checkbox
+
+【17】表格
 
 ## 【02】工具
-+ <a target="_blank" href="https://moyuling.github.io/blog/menu/markdown/【02】工具/【01】markdown-webtrom.html">【01】markdown-webtrom</a>
 
-+ <a target="_blank" href="https://moyuling.github.io/blog/menu/markdown/【02】工具/【01】在线编辑器.html">【01】在线编辑器</a>
++ [markdown工具推荐](http://www.cnblogs.com/moyuling/p/8965723.html)
 
-+ <a target="_blank" href="https://moyuling.github.io/blog/menu/markdown/【02】工具/【02】webStorm Markdown 插件破解.html">【02】webStorm Markdown 插件破解</a>
-
-+ <a target="_blank" href="https://moyuling.github.io/blog/menu/markdown/【02】工具/【02】工具.html">【02】工具</a>
++ [markdown在线编辑器](http://www.cnblogs.com/moyuling/p/8965721.html)
 
 ## 【03】说明
-+ <a target="_blank" href="https://moyuling.github.io/blog/menu/markdown/【03】说明/【01】说明.html">【01】说明</a>
 
-+ <a target="_blank" href="https://moyuling.github.io/blog/menu/markdown/【03】说明/【02】魔芋总结.html">【02】魔芋总结</a>
++ [markdown特殊说明](http://www.cnblogs.com/moyuling/p/8965720.html)
 
 ## 【04】相关网站
-+ <a target="_blank" href="https://moyuling.github.io/blog/menu/markdown/【04】相关网站/【03】github的markdown语法.html">【03】github的markdown语法</a>
+
++ [语法地址：github版本，繁体版本](http://www.cnblogs.com/moyuling/p/8965719.html)
 
 
+
+
+
+
+**
