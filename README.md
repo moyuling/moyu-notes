@@ -4,8 +4,9 @@
 
 ### HTML5
 
-+ [H5之地理位置（必知必会）](http://www.cnblogs.com/moyuling/p/8965192.html)
++ [H5系列之地理位置（必知必会）](http://www.cnblogs.com/moyuling/p/8965192.html)
 
++ [H5系列之History（必知必会）](http://www.cnblogs.com/moyuling/p/8970760.html)
 
 ### 工具相关
 
