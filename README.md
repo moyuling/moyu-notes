@@ -8,6 +8,12 @@
 
 + [H5系列之History（必知必会）](http://www.cnblogs.com/moyuling/p/8970760.html)
 
+
+### JavaScript
+
++ [图解原型和原型链by魔芋](subMenu/prototype.md)
+
+
 ### 工具相关
 
 + [markdown学习记录](subMenu/markdown.md)
