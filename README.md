@@ -12,9 +12,11 @@
 + [判断某个对象是否是数组？](http://www.cnblogs.com/moyuling/p/9019163.html)
 
 
-- [打开一个网页经历了那些过程？](http://web.jobbole.com/94150/)
-- [浏览器加载白屏是什么原因？](/Collection/WhiteScreen.md)
-- [千万访问量的项目，前端需要注意些什么？](/Collection/DozensOfVisits.md)
++ [打开一个网页经历了那些过程？](http://web.jobbole.com/94150/)
+
++ [浏览器加载白屏是什么原因？](/Collection/WhiteScreen.md)
+
++ [千万访问量的项目，前端需要注意些什么？](/Collection/DozensOfVisits.md)
 
 
 ---
@@ -22,9 +24,9 @@
 
 ### HTML5
 
-- [H5系列之地理位置（必知必会）](http://www.cnblogs.com/moyuling/p/8965192.html)
++ [H5系列之地理位置（必知必会）](http://www.cnblogs.com/moyuling/p/8965192.html)
 
-- [H5系列之History（必知必会）](http://www.cnblogs.com/moyuling/p/8970760.html)
++ [H5系列之History（必知必会）](http://www.cnblogs.com/moyuling/p/8970760.html)
 
 
 ### JavaScript
