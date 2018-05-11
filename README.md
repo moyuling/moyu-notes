@@ -2,6 +2,16 @@
 
 > Learning is a game, I'm addicted to it
 
+### 面试题
+
+#### js
++ [数组去重](http://www.cnblogs.com/moyuling/p/9021340.html)
+
++ [[].slice和Array.prototype.slice的区别](http://www.cnblogs.com/moyuling/p/9019292.html)
+
++ [判断某个对象是否是数组？](http://www.cnblogs.com/moyuling/p/9019163.html)
+
+
 ### HTML5
 
 + [H5系列之地理位置（必知必会）](http://www.cnblogs.com/moyuling/p/8965192.html)
@@ -12,6 +22,12 @@
 ### JavaScript
 
 + [图解原型和原型链by魔芋](subMenu/prototype.md)
+
+
+### CSS
+
+
+
 
 
 ### 工具相关
