@@ -28,15 +28,17 @@
 
 + [H5系列之History（必知必会）](http://www.cnblogs.com/moyuling/p/8970760.html)
 
+--- 
 
 ### JavaScript
 
 + [图解原型和原型链by魔芋](subMenu/prototype.md)
 
+---
 
 ### CSS
 
-
+---
 
 
 
@@ -56,9 +58,11 @@
 
 + [git常用命令总结](http://www.cnblogs.com/moyuling/p/9005966.html)
 
+---
+
 ### 阅读相关
 
-
+---
 
 ### 浏览器相关
 
