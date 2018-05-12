@@ -18,6 +18,11 @@
 
 - [javascript有哪些方法定义对象](http://www.cnblogs.com/moyuling/p/9030148.html)
 
+- [javascript有哪几种数据类型](http://www.cnblogs.com/moyuling/p/9030502.html)
+
+- [原始类型和引用类型的区别](http://www.cnblogs.com/moyuling/p/9030560.html)
+
+
 #### html
 
 - [你是如何理解 HTML 语义化的，有什么好处？](http://www.cnblogs.com/moyuling/p/9030000.html)
