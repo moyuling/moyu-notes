@@ -5,6 +5,7 @@
 ### 面试题
 
 #### js
+
 - [数组去重](http://www.cnblogs.com/moyuling/p/9021340.html)
 
 - [[].slice和Array.prototype.slice的区别](http://www.cnblogs.com/moyuling/p/9019292.html)
@@ -15,9 +16,10 @@
 
 - [打开一个网页经历了那些过程？](http://web.jobbole.com/94150/)
 
-
+- [javascript有哪些方法定义对象](http://www.cnblogs.com/moyuling/p/9030148.html)
 
 #### html
+
 - [你是如何理解 HTML 语义化的，有什么好处？](http://www.cnblogs.com/moyuling/p/9030000.html)
 
 - [前端需要注意哪些SEO？](前端需要注意哪些SEO)
