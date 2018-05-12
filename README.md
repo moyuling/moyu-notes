@@ -22,6 +22,7 @@
 
 - [原始类型和引用类型的区别](http://www.cnblogs.com/moyuling/p/9030560.html)
 
+- [面试中奇奇怪怪的代码判断](subMenu/awesome-code-snippet.md)
 
 #### html
 
