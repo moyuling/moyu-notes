@@ -1,2 +1,4 @@
-b.js
 .idea/
+.cache
+node_modules
+dist

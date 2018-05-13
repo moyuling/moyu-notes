@@ -6,6 +6,8 @@
 
 #### js
 
+- [面试中奇奇怪怪的代码判断](subMenu/awesome-code-snippet.md)
+
 - [数组去重](http://www.cnblogs.com/moyuling/p/9021340.html)
 
 - [[].slice和Array.prototype.slice的区别](http://www.cnblogs.com/moyuling/p/9019292.html)
@@ -22,7 +24,7 @@
 
 - [原始类型和引用类型的区别](http://www.cnblogs.com/moyuling/p/9030560.html)
 
-- [面试中奇奇怪怪的代码判断](subMenu/awesome-code-snippet.md)
+
 
 #### html
 
@@ -42,6 +44,15 @@
 
 - [PNG,GIF,JPG的区别及如何选](http://www.cnblogs.com/moyuling/p/9030782.html)
 
+- [外边距折叠(collapsing margins)](http://www.cnblogs.com/moyuling/p/9030794.html)
+
+- [display,float,position的关系](http://www.cnblogs.com/moyuling/p/9030807.html)
+
+- [link与@import的区别](http://www.cnblogs.com/moyuling/p/9030812.html)
+
+- [css hack原理及常用hack](http://www.cnblogs.com/moyuling/p/9030816.html)
+
+
 
 
 ---
@@ -60,6 +71,7 @@
 
 - [图解原型和原型链by魔芋](subMenu/prototype.md)
 
+- [图解JSON]()
 ---
 
 ### CSS
