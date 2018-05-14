@@ -2,6 +2,12 @@
 
 > Learning is a game, I'm addicted to it
 
+# 目录
+
+- [面试题](#面试题)
+- [HTML5](#HTML5)
+- [JavaScript](#JavaScript)
+
 ### 面试题
 
 #### js
@@ -72,6 +78,9 @@
 - [图解原型和原型链by魔芋](subMenu/prototype.md)
 
 - [图解JSON](subMenu/JSON.md)
+
+- [图解Number](http://www.cnblogs.com/moyuling/p/9016282.html)
+
 ---
 
 ### CSS
