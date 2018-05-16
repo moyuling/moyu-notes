@@ -48,10 +48,52 @@ A：
  - （4）不断调用指针对象的next方法，直到它指向数据结构的结束位置。
 
 
+- #### Q：如何对一个对象部署遍历器接口？
+
+A：
+
+
+- #### Q：for of 可以遍历的有？
+
+A：
+数组，Set，Map，类数组读写(arguments对象，NodeList对象，HTMLCollection对象)，Generator对象，字符串。
+
+
+- #### Q： 遍历一个数组的有几种方式？优缺点是？
+A：
+	
+	let moyu = [1,2,3];
+	
+	for(let i=0,len=moyu.length;i<len;i++){
+		//ES5常用方法
+	    console.log(moyu[i]);
+	}
+	moyu.forEach(function(value){
+	    //不好，无法中途跳出循环，无法break，return。
+	    console.log(value);
+	});
+	
+	for( let index in moyu){
+	    //不好，会遍历数组的其他方法或原型链上的方法
+	    console.log(moyu[index]);
+	}
+	
+	for (let value of moyu ){
+	    //推荐使用。
+	    console.log(value);
+	}
 
 
 
-
+- #### Q: ES6新加了哪些功能？
+A：
+- let,const 
+- Class
+- Set,WeakSet,Map,WeakMap
+- Symbol
+- 解构赋值
+- iterator(迭代器)
+- Generator（生成器）
 
 
 
