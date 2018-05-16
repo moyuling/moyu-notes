@@ -41,6 +41,10 @@
 
 >todo:还没有看。
 
+- [es6features](https://github.com/lukehoban/es6features#readme)
+>魔芋：github一个讲解特性的代码仓库。
+
+>todo:未阅读。
 
 ---
 
