@@ -38,6 +38,9 @@
 
 - [原始类型和引用类型的区别](http://www.cnblogs.com/moyuling/p/9030560.html)
 
+- 请实现你所知道的对象继承的方法或方式？有几种？分别是什么？优缺点？请用实例说明。
+
+
 
 
 #### html
@@ -98,6 +101,11 @@
 ### 100道练习题`[code]`
 
 - [code-01](execrise/code-01.md)
+
+
+### ES6自问自答-魔芋
+
+- [Class](ES6/class.md)
 
 
 
