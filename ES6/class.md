@@ -94,6 +94,18 @@ A：
 - 解构赋值
 - iterator(迭代器)
 - Generator（生成器）
+- reflect
+- for of
+- Module
+- 修饰器
+- Promise
+- Proxy
+- 新增加的数组方法。
+- 新增加的字符串方法。（模板字符串）
+- 新增加的正则方法。
+- Arrow function（箭头函数。）
+- 修改二进制，八进制的开头。
+
 
 
 

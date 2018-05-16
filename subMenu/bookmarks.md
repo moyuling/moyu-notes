@@ -2,18 +2,19 @@
 
 ### ES6
 
-- [Airbnb JavaScript Style Guide](https://github.com/yuche/javascript)
->ES6代码规范
 
-- [深入浅出ES6  在InfoQ上的内容](http://www.infoq.com/cn/es6-in-depth/)
-	
->魔芋：已全部阅读。	
+### 规范
 
->内容不如阮一峰的教程。内容与阮一峰的部分相似。引导性的话语较多。-_-||。
-
+- [ecma官网文档-6.0](http://www.ecma-international.org/ecma-262/6.0/)
+>英文的TR标准。
 
 - [ECMA262-github](https://github.com/tc39/ecma262)
 >github上的ecma库
+
+
+---
+
+### 工具
 
 
 - [Broccoli](https://github.com/broccolijs/broccoli)
@@ -23,9 +24,33 @@
 
 >类似Rails的asset管道，但是Broccoli运行在Node上且可以对接任意后端。
 
+>todo:未试用。
+
+---
+
+### 帮助理解的资源
+
+- [Airbnb JavaScript Style Guide](https://github.com/yuche/javascript)
+>ES6代码规范
+
+>todo:未阅读。
 
 
+- [Exploring ES6 ](http://exploringjs.com/es6/)
+>魔芋：一本英文的讲解ES6的书籍。可以在线免费观看。
 
+>todo:还没有看。
+
+
+---
+
+### 闲置
+
+- [深入浅出ES6  在InfoQ上的内容](http://www.infoq.com/cn/es6-in-depth/)
+	
+>魔芋：已全部阅读。	
+
+>内容不如阮一峰的教程。内容与阮一峰的部分相似。引导性的话语较多。-_-||。
 
 
 
