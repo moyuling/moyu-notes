@@ -20,8 +20,6 @@
 
 #### js
 
-- [面试中奇奇怪怪的代码判断](subMenu/awesome-code-snippet.md)
-
 - [数组去重](http://www.cnblogs.com/moyuling/p/9021340.html)
 
 - [[].slice和Array.prototype.slice的区别](http://www.cnblogs.com/moyuling/p/9019292.html)
