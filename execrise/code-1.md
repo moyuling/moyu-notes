@@ -50,3 +50,34 @@
 var n = 1 - "x";        // => NaN: 字符串"x"无法转换为数字
 n + " objects"          // => "NaN objects": NaN转换为字符串"NaN"
 ```
+
+
+-
+
+
+	var tmp = 1;
+	    function f(){
+	        if(false) {
+	            var tmp = 2;
+	        }
+	        console.log(tmp);
+	    }
+	    f(); 
+	    
+	    
+
+---
+
+	var add = (function(){
+	    var counter = 0;
+	    return function(){
+	        return counter+=1;
+	    }
+	    
+	})();
+	
+	add();
+	add();
+	add();
+	
+	// counter :3

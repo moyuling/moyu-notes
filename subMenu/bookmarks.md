@@ -11,6 +11,7 @@
 - [ECMA262-github](https://github.com/tc39/ecma262)
 >github上的ecma库
 
+- [现代浏览器支持情况](http://kangax.github.io/compat-table/es6/)
 
 ---
 
@@ -25,6 +26,9 @@
 >类似Rails的asset管道，但是Broccoli运行在Node上且可以对接任意后端。
 
 >todo:未试用。
+
+
+
 
 ---
 
@@ -72,5 +76,6 @@
 
 - [Wscats - github](https://github.com/Wscats)
 
+- [百度分享](http://share.baidu.com/code)
 
-
+- [npm 国内镜像-淘宝源](https://npm.taobao.org/)

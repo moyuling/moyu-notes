@@ -90,6 +90,7 @@
 
 - [图解Number](http://www.cnblogs.com/moyuling/p/9016282.html)
 
+- [vue学习记录](vue/vue.md)
 ---
 
 ### CSS

@@ -2,23 +2,23 @@
 
 
 - #### Q:如何实现一个Class？
-A:
 
-```javascript
-class Moyu{
-    constructor(name){
-        this.name = name;
-    }
-    sayHello(){
-        console.log("hello "+this.name);
-    }
-}
-let mo = new Moyu("world");
-mo.sayHello();//hello world
-```
+
+	```javascript
+       	class Moyu{
+       	    constructor(name){
+       	        this.name = name;
+       	    }
+       	    sayHello(){
+       	        console.log("hello "+this.name);
+       	    }
+       	}
+       	let mo = new Moyu("world");
+       	mo.sayHello();//hello world
+       	```
 
 - #### Q: Object.setPrototypeOf()的实现函数是？
-A:
+
 ```javascript
 Object.setPrototypeOf = function (obj, proto) {
      obj.__proto__ = proto;
@@ -30,7 +30,7 @@ Object.setPrototypeOf = function (obj, proto) {
 
 
 - #### Q：遍历器的好处是？
-A：
+
 	
 	一是为各种数据结构，提供一个统一的访问接口；
 	
@@ -40,7 +40,7 @@ A：
     
     
  - #### Q: 遍历器的遍历过程是？
- A：
+
  
  - （1）创建一个指针对象，指向当前数据结构的起始位置。遍历器对象本质上，就是一个指针对象。
  - （2）第一次调用指针对象的next方法，可以将指针指向数据结构的第一个成员。
@@ -50,17 +50,17 @@ A：
 
 - #### Q：如何对一个对象部署遍历器接口？
 
-A：
+
 
 
 - #### Q：for of 可以遍历的有？
 
-A：
+
 数组，Set，Map，类数组读写(arguments对象，NodeList对象，HTMLCollection对象)，Generator对象，字符串。
 
 
 - #### Q： 遍历一个数组的有几种方式？优缺点是？
-A：
+
 	
 	let moyu = [1,2,3];
 	
@@ -86,7 +86,7 @@ A：
 
 
 - #### Q: ES6新加了哪些功能？
-A：
+
 - let,const 
 - Class
 - Set,WeakSet,Map,WeakMap
