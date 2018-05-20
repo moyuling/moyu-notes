@@ -79,3 +79,7 @@
 - [百度分享](http://share.baidu.com/code)
 
 - [npm 国内镜像-淘宝源](https://npm.taobao.org/)
+- [谷歌浏览器应用商店](https://chrome.google.com/webstore/category/extensions)
+
+
+
