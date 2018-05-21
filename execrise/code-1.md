@@ -81,3 +81,55 @@ n + " objects"          // => "NaN objects": NaN转换为字符串"NaN"
 	add();
 	
 	// counter :3
+
+
+---
+
+	let a = function b() {
+        console.log('第一次输出：'+b)
+        b = 3 ;
+        console.log('第二次输出：'+b)
+    }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

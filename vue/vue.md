@@ -15,6 +15,20 @@
 	>
 	>魔芋：建议在谷歌浏览器上安装使用。
 	
+- [vue-cli](https://github.com/vuejs/vue-cli)
+	>github地址
+
+- [vue-cli中文说明文档](https://github.com/vuejs/vue-docs-zh-cn/blob/master/vue-cli/README.md#%E4%BB%8B%E7%BB%8D)
+
+
+- [awesome-github-vue](https://github.com/opendigg/awesome-github-vue)
+	>UI组件、开发框架、实用库、服务端、辅助工具、应用实例、Demo示例
+	>
+	>魔芋：这是一个github库，收集很多的和vue相关的库，工具，代码。
+
+- [vue社区贡献者](https://github.com/orgs/vuejs/people)
+
+- [vue-loader文档](https://vue-loader.vuejs.org/)
 
 ---
 ### 注意事项
@@ -34,16 +48,25 @@
 2018年5月20日：版本2.5.16
 
 
-### Q： vue是什么？
+
 
 ### Q： vue的发音是？
 /vju:/
 
 
 
+---
+
+
+# 未回答的问题。
+
+### Q： vue是什么？
 
 
 
+### Q: 请实现一个最新的vue示例。
+
+### Q: 实际业务中，vue开发可能遇到的问题？
 
 
 
