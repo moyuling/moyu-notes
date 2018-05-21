@@ -1,4 +1,4 @@
-#学习vue的步骤 
+# 学习vue的步骤 
 
 01，前端三大样：
 
@@ -40,4 +40,17 @@ HTML,CSS,JavaScript
 
 > 可以自己亲手从零开始搭一个项目加深理解。
 	
-02，
+02，实现Vue 2.0 + vue-router + vuex
+
+参照 [例子](https://github.com/vuejs/vue-hackernews-2.0)
+
+03，理解Virtual DOM 和 Render Functions.
+
+04，阅读开源的 Vue 应用、组件、插件源码，自己尝试编写开源的 Vue 组件、插件。
+
+05，阅读 Vue 的源码，理解内部实现细节。
+
+> 魔芋：大神请随意。
+
+06，加入 Vue 开发。贡献PR。
+> 魔芋：升职加薪，迎娶白富美,成为人生赢家。
