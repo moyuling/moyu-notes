@@ -68,5 +68,45 @@
 
 ### Q: 实际业务中，vue开发可能遇到的问题？
 
+### Q：什么是MVVM数据绑定？
+
+### Q：如何构建、发布、推广、维护一个开源项目？
+
+> 示例代码。
+
+> 发表到知名网站：
+- HackerNews front page
+- Reddit /r/javascript top spot
+- EchoJS top spot
+- [DailyJS](http://dailyjs.com)
+- [JavaScript Weekly](http://javascriptweekly.com/)
+
+> 全面的测试覆盖率。
+
+> 搭建你的网站。可以用hexo+github page。
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 

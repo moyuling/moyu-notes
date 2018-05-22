@@ -97,6 +97,12 @@
 
 ---
 
+### vue
+
+- [vue学习记录by魔芋](vue/vue.md)
+
+- [学习vue的步骤 to 新手](vue/how-to-lean-vue.md)
+
 ### 100道练习题`[code]`
 
 - [code-01](execrise/code-01.md)
