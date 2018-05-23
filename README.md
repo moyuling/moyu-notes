@@ -49,11 +49,7 @@
 
 #### html
 
-- [你是如何理解 HTML 语义化的，有什么好处？](http://www.cnblogs.com/moyuling/p/9030000.html)
-
-- [前端需要注意哪些SEO？](http://www.cnblogs.com/moyuling/p/9030006.html)
-
-- [html5新标签有哪些？](http://www.cnblogs.com/moyuling/p/9030014.html)
+- [HTML面试题+工作常见问题](HTML/README.md)
 
 #### CSS
 
