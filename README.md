@@ -2,6 +2,12 @@
 
 > Learning is a game, I'm addicted to it
 
+
+
+魔芋：有疑惑或其他问题，欢迎提issue。
+
+
+
 # 目录
 
 - [面试题](#面试题)
@@ -80,7 +86,7 @@
 
 - [H5系列之History（必知必会）](http://www.cnblogs.com/moyuling/p/8970760.html)
 
---- 
+---
 
 ### JavaScript
 
@@ -111,7 +117,7 @@
 ### ES6自问自答-魔芋
 
 - [Class](ES6/class.md)
-- [](ES6/Generator.md)
+- [Generator](ES6/Generator.md)
 
 
 ### 工具相关
