@@ -12,6 +12,17 @@
 >github上的ecma库
 
 - [现代浏览器支持情况](http://kangax.github.io/compat-table/es6/)
+- [ECMAScript proposals](https://github.com/tc39/proposals)
+
+> 还未成为标准的提案
+
+
+
+
+
+
+
+
 
 ---
 
@@ -26,7 +37,6 @@
 >类似Rails的asset管道，但是Broccoli运行在Node上且可以对接任意后端。
 
 >todo:未试用。
-
 
 
 
@@ -56,9 +66,38 @@
 
 - [深入浅出ES6  在InfoQ上的内容](http://www.infoq.com/cn/es6-in-depth/)
 	
->魔芋：已全部阅读。	
+	魔芋：已全部阅读。	
 
 >内容不如阮一峰的教程。内容与阮一峰的部分相似。引导性的话语较多。-_-||。
+
+
+
+### JavaScript库
+
+- [lodash](https://lodash.com/)
+
+> 魔芋：一个npm被依赖最多的包。
+> A modern JavaScript utility library delivering modularity, performance & extras.
+
+
+
+
+
+
+
+### node
+
+- [most depended upon packages](https://www.npmjs.com/browse/depended)
+
+> 魔芋：npm依赖排行
+
+
+
+
+
+### 综合性网址：
+
+- [伯乐在线](http://www.jobbole.com/)
 
 
 
@@ -66,12 +105,8 @@
 
 ### 未分类
 
-- [lodash](https://lodash.com/)
->魔芋：一个npm被依赖最多的包。
->A modern JavaScript utility library delivering modularity, performance & extras.
+- ​
 
-- [most depended upon packages](https://www.npmjs.com/browse/depended)
->魔芋：npm依赖排行
 
 
 - [Wscats - github](https://github.com/Wscats)
@@ -83,16 +118,12 @@
 
 
 
-- [ECMAScript proposals](https://github.com/tc39/proposals)
-	>还未成为标准的提案
+
 
 - [How to Spread The Word About Your Code](https://hacks.mozilla.org/2013/05/how-to-spread-the-word-about-your-code/?utm_source=statuscode&utm_medium=email)
-
-
-
-
-
-
+- [IE 浏览器帮助文档](https://support.microsoft.com/zh-cn/products/internet-explorer)
+- [html5test](http://html5test.com/)
+- [前端观察](https://www.qianduan.net)
 
 
 

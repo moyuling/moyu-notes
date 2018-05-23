@@ -22,13 +22,36 @@
 
 
 - [awesome-github-vue](https://github.com/opendigg/awesome-github-vue)
-	>UI组件、开发框架、实用库、服务端、辅助工具、应用实例、Demo示例
-	>
-	>魔芋：这是一个github库，收集很多的和vue相关的库，工具，代码。
+    >UI组件、开发框架、实用库、服务端、辅助工具、应用实例、Demo示例
+    >
+    >魔芋：这是一个github库，收集很多的和vue相关的库，工具，代码。
+
+- [Awesome Vue.js](https://github.com/vuejs/awesome-vue)
+	> github地址，英文版
+
 
 - [vue社区贡献者](https://github.com/orgs/vuejs/people)
 
 - [vue-loader文档](https://vue-loader.vuejs.org/)
+
+- [vuex文档](https://vuex.vuejs.org/)
+
+- [vue交流网站](https://discordapp.com/invite/HBherRA)
+
+- [vue-router英文说明文档](https://router.vuejs.org/en/essentials/getting-started.html)
+- [vue-router中文文档](https://router.vuejs.org/zh-cn/)
+- [vue-router github地址](https://github.com/vuejs/vue-router/)
+
+
+
+##### 知名的组件库
+
+- [Element github地址](https://github.com/ElemeFE/element)
+	>A Vue.js 2.0 UI Toolkit for Web
+
+- [Element 中文文档](http://element-cn.eleme.io/#/zh-CN)
+
+
 
 ---
 ### 注意事项
