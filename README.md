@@ -24,50 +24,18 @@
 
 ### 面试题
 
-#### js
+- [JS面试题](JavaScript/README.md)
 
-- [数组去重](http://www.cnblogs.com/moyuling/p/9021340.html)
-
-- [[].slice和Array.prototype.slice的区别](http://www.cnblogs.com/moyuling/p/9019292.html)
-
-- [判断某个对象是否是数组？](http://www.cnblogs.com/moyuling/p/9019163.html)
-
-- [javascript跨域通信](http://www.cnblogs.com/moyuling/p/9030059.html)
-
-- [打开一个网页经历了那些过程？](http://web.jobbole.com/94150/)
-
-- [javascript有哪些方法定义对象](http://www.cnblogs.com/moyuling/p/9030148.html)
-
-- [javascript有哪几种数据类型](http://www.cnblogs.com/moyuling/p/9030502.html)
-
-- [原始类型和引用类型的区别](http://www.cnblogs.com/moyuling/p/9030560.html)
-
-- 请实现你所知道的对象继承的方法或方式？有几种？分别是什么？优缺点？请用实例说明。
-
-
-
-
-#### html
 
 - [HTML面试题+工作常见问题](HTML/README.md)
+- [CSS面试题](CSS/README.md)
 
-#### CSS
 
-- [CSS中具有继承性的属性](http://www.cnblogs.com/moyuling/p/9e8764999dc83bd26fd32c5c16fccc4b.html)
 
-- [什么是FOUC?如何避免](http://www.cnblogs.com/moyuling/p/9030717.html)
 
-- [specified value,computed value,used value计算方法](http://www.cnblogs.com/moyuling/p/9030774.html)
 
-- [PNG,GIF,JPG的区别及如何选](http://www.cnblogs.com/moyuling/p/9030782.html)
 
-- [外边距折叠(collapsing margins)](http://www.cnblogs.com/moyuling/p/9030794.html)
 
-- [display,float,position的关系](http://www.cnblogs.com/moyuling/p/9030807.html)
-
-- [link与@import的区别](http://www.cnblogs.com/moyuling/p/9030812.html)
-
-- [css hack原理及常用hack](http://www.cnblogs.com/moyuling/p/9030816.html)
 
 
 
