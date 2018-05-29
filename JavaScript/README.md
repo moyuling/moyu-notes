@@ -20,3 +20,41 @@
 - [原始类型和引用类型的区别](http://www.cnblogs.com/moyuling/p/9030560.html)
 - 请实现你所知道的对象继承的方法或方式？有几种？分别是什么？优缺点？请用实例说明。
 
+
+
+- [【Q】javascript有哪几种数据类型](#qjavascript有哪几种数据类型)
+
+
+
+
+
+
+
+---
+
+
+
+### 答案简单的罗列如下：
+
+
+
+### 【Q】javascript有哪几种数据类型?
+
+6种基本类型：null,undefined,boolean,number,string,symbol（es6新加）
+
+1种引用类型：object
+
+(魔芋：这里引申一下：function，array是一种特殊的对象。RegExp，Date，JSON是一种特殊的接口，定义很多属性和方法。)
+
+
+
+
+
+
+
+
+
+
+
+
+
