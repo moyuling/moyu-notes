@@ -1,8 +1,17 @@
-Q: 什么是依赖收集？
+### 暂时未填充答案的
 
-Q: defineOwnProperty?
+- Q: 什么是依赖收集？
+- Q: defineOwnProperty?
+- Q: async await?
 
-Q: async await?
+- 请实现你所知道的对象继承的方法或方式？有几种？分别是什么？优缺点？请用实例说明。
+- HTTP和HTTPS？
+
+---
+
+
+
+### 答案要跳转的：
 
 
 
@@ -14,15 +23,26 @@ Q: async await?
 - [javascript有哪些方法定义对象](http://www.cnblogs.com/moyuling/p/9030148.html)
 - [javascript有哪几种数据类型](http://www.cnblogs.com/moyuling/p/9030502.html)
 - [原始类型和引用类型的区别](http://www.cnblogs.com/moyuling/p/9030560.html)
-- 请实现你所知道的对象继承的方法或方式？有几种？分别是什么？优缺点？请用实例说明。
+
+
+
+
+
+
+
+---
+
+### 答案简单的目录：
 
 
 
 - [【Q】javascript有哪几种数据类型](#qjavascript有哪几种数据类型)
 - [【Q】JS是什么？](#qjs是什么)
-- HTTP和HTTPS？
-- 请解释类和对象？
+- [【Q】什么是抽象？](#q什么是抽象？)
+- [请解释类和对象？](#q请解释类和对象？)
 - 
+
+
 
 
 
@@ -72,7 +92,7 @@ Q: async await?
 
 
 
-【Q】面对对象的特征是什么？
+### 【Q】面对对象的特征是什么？
 
 魔芋：笼统的说：继承，封装，多态。
 
