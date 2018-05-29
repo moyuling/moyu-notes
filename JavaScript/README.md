@@ -55,8 +55,7 @@
 - [javascript有哪几种数据类型](http://www.cnblogs.com/moyuling/p/9030502.html)
 - [原始类型和引用类型的区别](http://www.cnblogs.com/moyuling/p/9030560.html)
 - [操作符的相关问题](submenu/operator.md)
-
-
+- [闭包之魔芋理解](submenu/closure.md)
 
 
 
