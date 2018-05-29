@@ -10,15 +10,15 @@
 - [你是如何理解 HTML 语义化的，有什么好处？](http://www.cnblogs.com/moyuling/p/9030000.html)
 - [前端需要注意哪些SEO？](http://www.cnblogs.com/moyuling/p/9030006.html)
 - [html5新标签有哪些？](http://www.cnblogs.com/moyuling/p/9030014.html)
-- [HTML全局属性(global attribute)有哪些](HTML全局属性.md)
+- [HTML全局属性(global attribute)有哪些](submenu/HTML全局属性.md)
 
 
 
 
 
 
-- [canvas是什么？怎么用](canvas.md)
-- [SVG是什么？](SVG.md)
+- [canvas是什么？怎么用](submenu/canvas.md)
+- [SVG是什么？](submenu/SVG.md)
 - [webGL] (todo:延后)
 
 
