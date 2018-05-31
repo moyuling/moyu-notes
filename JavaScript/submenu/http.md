@@ -1,6 +1,6 @@
 # http
 
-### 【Q】http状态码及含义?
+### 【Q】http状态码及含义?206、302、303、304、307？
 
 【17】HTTP状态码及其含义
 
@@ -92,32 +92,6 @@ name=qiu&age=25
 
  
 
-
-
-
-
-
-
-### 【Q】http和https的区别，https在哪一层加密
-
-
-
-
-
-### 【Q】缓存处理（用http2.0）
-
-
-
-### 【Q】http、https、http2.0区别
-
-
-
-
-
-### 【Q】https是否绝对安全？
-
-
-
 ### 【Q】HTTP response报文结构是怎样的 ？
 
 1. 首行是状态行包括：HTTP版本，状态码，状态描述，后面跟一个CRLF
@@ -143,3 +117,49 @@ Content-Type: text/html; charset=iso-8859-1
 
  
 
+
+
+
+
+### 【Q】http和https的区别，https在哪一层加密
+
+
+
+
+
+### 【Q】缓存处理（用http2.0）
+
+
+
+### 【Q】http、https、http2.0区别
+
+
+
+
+
+### 【Q】https是否绝对安全？
+
+
+
+
+
+【Q】http1.0和http1.1的区别？
+
+
+
+
+
+【Q】能说下304具体怎样实现吗？
+
+【Q】http缓存逻辑是怎样的？协商缓存与强缓存？Last-Modified / Etag / Expires / Cache-Control ？
+
+【Q】osi七层协议和tcp/ip四层协议
+
+
+
+【Q】三次握手和四次握手？
+
+- 
+- 手动阀http2具体内容？SDPY了解么？
+- HTTPS如何实现？tsl/ssl是什么？对称加密、非对称加密在什么时候、对什么数据加密？
+- DNS劫持是什么？
