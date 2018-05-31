@@ -8,7 +8,7 @@
 
 - 请实现你所知道的对象继承的方法或方式？有几种？分别是什么？优缺点？请用实例说明。
 
-- 【01】HTTP和HTTPS？
+- 
 
 - 【】怎样添加、移除、移动、复制、创建和查找节点 
 
@@ -56,12 +56,9 @@
 - [原始类型和引用类型的区别](http://www.cnblogs.com/moyuling/p/9030560.html)
 - [操作符的相关问题](submenu/operator.md)
 - [闭包之魔芋理解](submenu/closure.md)
-
-
-
-
-
-
+- [DOM相关问题](submenu/dom.md)
+- Cookie和session的区别
+- [HTTP相关问题](submenu/http.md)
 
 ---
 
@@ -76,6 +73,13 @@
 - [【05】面对对象的特征是什么？](#05面对对象的特征是什么)
 - [【06】JS是用什么编写的？](#06js是用什么编写的)
 - [【07】什么是CDN？](07什么是CDN)
+- [【Q】js中函数调用的方法？](#qjs中函数调用的方法)
+- [【Q】preventDefault和stopPropagation区别？](#qpreventDefault和stopPropagation区别)
+- [【Q】ES6中let、const和var区别，说下块级作用域？](#qES6中let、const和var区别，说下块级作用域)
+
+
+
+
 
 
 
@@ -162,3 +166,38 @@
 CDN系统能够实时地根据网络流量和各节点的连接、负载状况以及到用户的距离和响应时间等综合信息将用户的请求重新导向离用户最近的服务节点上。
 
 比如：许多不同的网站使用相同的 JavaScript 框架，那么把框架库存放在一个通用的位置供每个网页使用。提高用户访问网站的响应速度。
+
+
+
+### 【Q】js中函数调用的方法？
+
+01，作为函数调用。
+
+02，作为对象方法调用。
+
+03，作为构造函数。
+
+04，通过他们的call()。apply()。bind()间接调用。
+
+
+
+### 【Q】preventDefault和stopPropagation区别？
+
+preventDefault()是阻止默认事件。
+
+stopPropagation()是阻止冒泡事件。
+
+
+
+
+
+### 【Q】ES6中let、const和var区别，说下块级作用域？
+
+let、const、var 都是声明变量的。
+
+let和const定义的变量是块级作用域的。var不是。
+
+const定义的变量的值是不可改变的。
+
+
+
