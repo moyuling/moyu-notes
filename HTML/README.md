@@ -4,31 +4,16 @@
 
 - [如何在手机页面上调用九宫格数字键盘？](submenu/02-如何在手机页面上调用九宫格数字键盘.md)
 
+- [HTML全局属性(global attribute)有哪些？](submenu/HTML全局属性.md)
 
-- [你是如何理解 HTML 语义化的，有什么好处？](http://www.cnblogs.com/moyuling/p/9030000.html)
-- [前端需要注意哪些SEO？](http://www.cnblogs.com/moyuling/p/9030006.html)
-- [html5新标签有哪些？](http://www.cnblogs.com/moyuling/p/9030014.html)
-- [HTML全局属性(global attribute)有哪些](submenu/HTML全局属性.md)
-
-
-
-
-
-
-- [canvas是什么？怎么用](submenu/canvas.md)
+- [canvas是什么？怎么用？](submenu/canvas.md)
 - [SVG是什么？](submenu/SVG.md)
 - [webGL] (todo:延后)
-
-
 - manifest、worker、socket
 - input和textarea的区别
 - 用一个div模拟textarea的实现
 
-
-
-- [【Q】什么是HTML5？](#q什么是html5)
-- [【Q】哪些浏览器支持HTML5？](#q哪些浏览器支持html5)
-
+  
 
 
 
@@ -46,11 +31,9 @@
 - [【Q】`<img>`的`title`和`alt`有什么区别？]()
 - [【Q】doctype是什么？有什么用？]([Q]doctype是什么？有什么用？)
 - [【Q】xhtml1.0的书写规则](#qxhtml1.0的书写规则)
-- [【Q】你是如何理解 HTML 语义化的](#q你是如何理解 HTML 语义化的)
-
-
-
-
+- [【Q】你是如何理解 HTML 语义化的，有什么好处？](#q你是如何理解 HTML 语义化的)
+- [【Q】前端需要注意哪些SEO？](#前端需要注意哪些SEO？)
+- [【Q】html5新标签有哪些？](html5新标签有哪些？)
 
 ---
 
@@ -169,4 +152,122 @@ alt是图片缺失时，对图片的描述文字。
 - 结构清晰。便于维护。
 - 盲人可以用阅读器来阅读。
 - 使搜索引擎更好的抓取网页。利于收录。
+
+###  【Q】前端需要注意哪些SEO
+
+01，合理的title，description，keywords。
+
+02，语义化的HTML代码。好处，让搜索引擎更好搜索。
+
+03，重要的HTML内容放前面。
+
+04，重要的内容，不要用JS输出。爬虫不会执行JS获取内容。
+
+05，少用iframe。搜索引擎不会抓取iframe的内容。
+
+06，图片加上alt和title。
+
+07，保证网站打开速度。
+
+
+
+### 【Q】html5新标签有哪些？
+
+canvas
+
+svg
+
+video
+
+audio
+
+【01】article(IE8不支持)
+
+【01】details
+
+【02】aside(IE8不支持)
+
+【03】header（IE8不支持）
+
+【04】footer（IE8不支持）
+
+【06】nav（IE8不支持）
+
+【07】section
+
+【08】figure（IE8不支持）
+
+【09】figcaption（IE8不支持）
+
+【10】embed
+
+【11】address
+
+【13】summary
+
+【14】menu
+
+【18】section
+
+【19】address
+
+【20】time
+
+------
+
+rp（IE8不支持）
+
+rt（IE8不支持）
+
+ruby（IE8不支持）
+
+------
+
+【01】hgroup
+
+------
+
+较少支持的。
+
+【01】command(没有浏览器支持)
+
+【02】datalist（IE和Safari不支持）
+
+【03】details（只有chrome支持）
+
+【04】dialog(只有chrome支持)
+
+【05】keygen（IE不支持）
+
+【06】meter（IE不支持）
+
+【07】output(IE不支持)
+
+【08】progress(IE10+支持)
+
+【09】summary（IE，firefox,opera不支持）
+
+【10】time(都不支持)
+
+【11】track（IE9和firefox和Safari不支持）
+
+【12】wbr（IE不支持）
+
+【13】bdi(只有firefix和chrome支持)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
