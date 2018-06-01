@@ -3,12 +3,11 @@
 
 
 - [数组去重](submenu/arr-unique.md)
-- [[].slice和Array.prototype.slice的区别](http://www.cnblogs.com/moyuling/p/9019292.html)
+- [[].slice和Array.prototype.slice的区别](submenu/[].slice和Array.prototype.slice.md)
 - [判断某个对象是否是数组？](http://www.cnblogs.com/moyuling/p/9019163.html)
 - [javascript跨域通信](http://www.cnblogs.com/moyuling/p/9030059.html)
 - [打开一个网页经历了那些过程？](http://web.jobbole.com/94150/)
 - [javascript有哪些方法定义对象](http://www.cnblogs.com/moyuling/p/9030148.html)
-- [javascript有哪几种数据类型](http://www.cnblogs.com/moyuling/p/9030502.html)
 - [原始类型和引用类型的区别](http://www.cnblogs.com/moyuling/p/9030560.html)
 - [操作符的相关问题](submenu/operator.md)
 - [闭包之魔芋理解](submenu/closure.md)
