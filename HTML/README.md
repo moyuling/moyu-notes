@@ -27,12 +27,12 @@
 - [【Q】哪些浏览器支持HTML5？](#q哪些浏览器支持html5)
 - [【Q】如果我不放入<! DOCTYPE html> ，HTML5还会工作么？](#q如果我不放入<! DOCTYPE html> ，html5还会工作么？)
 - [【Q】HTML5新的表单元素类型有哪些？](#qhtml5新的表单元素类型有哪些)
-- [【Q】`<img>`的`title`和`alt`有什么区别？]()
-- [【Q】doctype是什么？有什么用？]([Q]doctype是什么？有什么用？)
+- [【Q】`<img>`的`title`和`alt`有什么区别？](#qimg的title和alt有什么区别)
+- [【Q】doctype是什么？有什么用？](#qdoctype是什么？有什么用？)
 - [【Q】xhtml1.0的书写规则](#qxhtml1.0的书写规则)
 - [【Q】你是如何理解HTML语义化的，有什么好处？](#q你是如何理解html语义化的)
-- [【Q】前端需要注意哪些SEO？](#前端需要注意哪些seo？)
-- [【Q】html5新标签有哪些？](html5新标签有哪些？)
+- [【Q】前端需要注意哪些SEO？](#q前端需要注意哪些seo？)
+- [【Q】html5新标签有哪些？](#qhtml5新标签有哪些？)
 
 ---
 
