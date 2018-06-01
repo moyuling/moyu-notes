@@ -24,7 +24,6 @@
 
   
 
-
 ---
 
 
@@ -33,7 +32,7 @@
 
 
 
-- [数组去重](http://www.cnblogs.com/moyuling/p/9021340.html)
+- [数组去重](submenu/arr-unique.md)
 - [[].slice和Array.prototype.slice的区别](http://www.cnblogs.com/moyuling/p/9019292.html)
 - [判断某个对象是否是数组？](http://www.cnblogs.com/moyuling/p/9019163.html)
 - [javascript跨域通信](http://www.cnblogs.com/moyuling/p/9030059.html)
