@@ -2,19 +2,18 @@
 
 ### 复杂答案的目录：
 
-- [如何在手机页面上调用九宫格数字键盘？](submenu/02-如何在手机页面上调用九宫格数字键盘.md)
+- [【Q】如何在手机页面上调用九宫格数字键盘？](submenu/02-如何在手机页面上调用九宫格数字键盘.md)
 
-- [HTML全局属性(global attribute)有哪些？](submenu/HTML全局属性.md)
+- [【Q】HTML全局属性(global attribute)有哪些？](submenu/HTML全局属性.md)
 
-- [canvas是什么？怎么用？](submenu/canvas.md)
-- [SVG是什么？](submenu/SVG.md)
-- [webGL] (todo:延后)
-- manifest、worker、socket
-- input和textarea的区别
-- 用一个div模拟textarea的实现
+- [【Q】canvas是什么？怎么用？](submenu/canvas.md)
+- [【Q】SVG是什么？](submenu/SVG.md)
+- [【Q】webGL] (todo:延后)
+- 【Q】manifest、worker、socket
+- 【Q】input和textarea的区别
+- 【Q】用一个div模拟textarea的实现
 
   
-
 
 
 
@@ -26,12 +25,12 @@
 
 - [【Q】什么是HTML5？](#q什么是HTML5)
 - [【Q】哪些浏览器支持HTML5？](#q哪些浏览器支持HTML5)
-- [【Q】如果我不放入<! DOCTYPE html> ，HTML5还会工作么？]([Q]如果我不放入<! DOCTYPE html> ，HTML5还会工作么？)
+- [【Q】如果我不放入<! DOCTYPE html> ，HTML5还会工作么？](#[Q]如果我不放入<! DOCTYPE html> ，HTML5还会工作么？)
 - [【Q】HTML5新的表单元素类型有哪些？](#qHTML5新的表单元素类型有哪些)
 - [【Q】`<img>`的`title`和`alt`有什么区别？]()
 - [【Q】doctype是什么？有什么用？]([Q]doctype是什么？有什么用？)
 - [【Q】xhtml1.0的书写规则](#qxhtml1.0的书写规则)
-- [【Q】你是如何理解 HTML 语义化的，有什么好处？](#q你是如何理解 HTML 语义化的)
+- [【Q】你是如何理解HTML语义化的，有什么好处？](#q你是如何理解 HTML 语义化的)
 - [【Q】前端需要注意哪些SEO？](#前端需要注意哪些SEO？)
 - [【Q】html5新标签有哪些？](html5新标签有哪些？)
 
