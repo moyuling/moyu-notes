@@ -1,34 +1,4 @@
-### 暂时未填充答案的
-
-- Q: 什么是依赖收集？
-
-- Q: defineOwnProperty?
-
-- Q: async await?
-
-- 请实现你所知道的对象继承的方法或方式？有几种？分别是什么？优缺点？请用实例说明。
-
-- 
-
-- 【】怎样添加、移除、移动、复制、创建和查找节点 
-
-- 
-
-- 面向对象编程:b怎么继承a 
-
-- 请编写一个JavaScript函数 parseQueryString，它的用途是把URL参数解析为一个对象
-  var obj = parseQueryString(url);
-  alert(obj.key0) // 输出0
-
-- ajax是什么? ajax的交互模型? 同步和异步的区别? 如何解决跨域问题?
-
-  
-
----
-
-
-
-### 答案要跳转的：
+### 答案复杂的目录：
 
 
 
