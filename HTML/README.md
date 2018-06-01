@@ -25,7 +25,7 @@
 
 - [【Q】什么是HTML5？](#q什么是HTML5)
 - [【Q】哪些浏览器支持HTML5？](#q哪些浏览器支持HTML5)
-- [【Q】如果我不放入<! DOCTYPE html> ，HTML5还会工作么？](#[Q]如果我不放入<! DOCTYPE html> ，HTML5还会工作么？)
+- [【Q】如果我不放入<! DOCTYPE html> ，HTML5还会工作么？](#q如果我不放入<! DOCTYPE html> ，HTML5还会工作么？)
 - [【Q】HTML5新的表单元素类型有哪些？](#qHTML5新的表单元素类型有哪些)
 - [【Q】`<img>`的`title`和`alt`有什么区别？]()
 - [【Q】doctype是什么？有什么用？]([Q]doctype是什么？有什么用？)
