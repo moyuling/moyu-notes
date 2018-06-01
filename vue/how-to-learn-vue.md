@@ -25,7 +25,7 @@ HTML,CSS,JavaScript
 >
 > - 要了解 npm 的常用命令，npm scripts 如何使用，语义化版本号规则，CommonJS 模块规范（了解它和 ES2015 Modules 的异同），Node 包的解析规则，以及 Node 的常用 API。
 > - 应当做到可以自己写一些基本的命令行程序。
- 
+
 08，webpack
 
 > 常用配置。
@@ -39,7 +39,7 @@ HTML,CSS,JavaScript
 01，通过vue-cli搭建项目。
 
 > 可以自己亲手从零开始搭一个项目加深理解。
-	
+
 02，实现Vue 2.0 + vue-router + vuex
 
 参照 [例子](https://github.com/vuejs/vue-hackernews-2.0)
@@ -54,3 +54,4 @@ HTML,CSS,JavaScript
 
 06，加入 Vue 开发。贡献PR。
 > 魔芋：升职加薪，迎娶白富美，成为人生赢家。
+

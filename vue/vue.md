@@ -1,22 +1,25 @@
 # vue学习记录 by 魔芋
 
+### 学习网址总结：
+
 - [官网地址-中文文档](http://cn.vuejs.org/v2/guide/)
 
 - [官网地址-英文文档](http://vuejs.org/v2/guide/)
 
 - [vuejs-github](https://github.com/vuejs)
-	>github 地址
+  >github 地址
 
 - [vue版本更新记录](https://github.com/vuejs/vue/releases)
+
 - [vue-devtools](https://github.com/vuejs/vue-devtools#vue-devtools)
-	>github地址。
-	>
-	>更好的方式来调试Vue应用。
-	>
-	>魔芋：建议在谷歌浏览器上安装使用。
-	
+  >github地址。
+  >
+  >更好的方式来调试Vue应用。
+  >
+  >魔芋：建议在谷歌浏览器上安装使用。
+
 - [vue-cli](https://github.com/vuejs/vue-cli)
-	>github地址
+  >github地址
 
 - [vue-cli中文说明文档](https://github.com/vuejs/vue-docs-zh-cn/blob/master/vue-cli/README.md#%E4%BB%8B%E7%BB%8D)
 
@@ -53,11 +56,16 @@
 
 
 
+
+
+
+
+
+
 ---
 ### 注意事项
 - 01，不要在开发环境使用压缩版，会失去错误信息。
 - 02，如果对node的构建工具不熟悉，请不要使用vue-cli。
-
 
 ---
 
@@ -81,7 +89,7 @@
 ---
 
 
-# 未回答的问题。
+# todo:
 
 ### Q： vue是什么？
 
@@ -92,23 +100,6 @@
 ### Q: 实际业务中，vue开发可能遇到的问题？
 
 ### Q：什么是MVVM数据绑定？
-
-### Q：如何构建、发布、推广、维护一个开源项目？
-
-> 示例代码。
-
-> 发表到知名网站：
-- HackerNews front page
-- Reddit /r/javascript top spot
-- EchoJS top spot
-- [DailyJS](http://dailyjs.com)
-- [JavaScript Weekly](http://javascriptweekly.com/)
-
-> 全面的测试覆盖率。
-
-> 搭建你的网站。可以用hexo+github page。
-
-
 
 
 

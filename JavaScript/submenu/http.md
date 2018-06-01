@@ -143,23 +143,43 @@ Content-Type: text/html; charset=iso-8859-1
 
 
 
-【Q】http1.0和http1.1的区别？
+### 【Q】http1.0和http1.1的区别？
 
 
 
 
 
-【Q】能说下304具体怎样实现吗？
-
-【Q】http缓存逻辑是怎样的？协商缓存与强缓存？Last-Modified / Etag / Expires / Cache-Control ？
-
-【Q】osi七层协议和tcp/ip四层协议
+### 【Q】能说下304具体怎样实现吗？
 
 
 
-【Q】三次握手和四次握手？
+### 【Q】http缓存逻辑是怎样的？协商缓存与强缓存？Last-Modified / Etag / Expires / Cache-Control ？
 
-- 
-- 手动阀http2具体内容？SDPY了解么？
-- HTTPS如何实现？tsl/ssl是什么？对称加密、非对称加密在什么时候、对什么数据加密？
-- DNS劫持是什么？
+
+
+### 【Q】osi七层协议和tcp/ip四层协议
+
+
+
+
+
+### 【Q】三次握手和四次握手？
+
+
+
+### 【Q】http2具体内容？SDPY了解么？
+
+
+
+### 【Q】HTTPS如何实现？tsl/ssl是什么？对称加密、非对称加密在什么时候、对什么数据加密？
+
+
+
+### 【Q】DNS劫持是什么？
+
+
+
+### 【Q】服务器怎样判断返回304？
+
+
+
