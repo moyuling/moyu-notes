@@ -12,7 +12,7 @@
 
 - 【】怎样添加、移除、移动、复制、创建和查找节点 
 
-- 怎样使用事件以及IE和DOM事件模型之间存在哪些主要差别 
+- 
 
 - 面向对象编程:b怎么继承a 
 
@@ -23,19 +23,6 @@
 - ajax是什么? ajax的交互模型? 同步和异步的区别? 如何解决跨域问题?
 
   
-
-- 下面这个ul，如何点击每一列的时候alert其index?
-
-- 
-
-  ​	<ul id=”test”>
-  		<li>这是第一条</li><li>这是第二条</li><li>这是第三条</li>
-  	</ul>
-
-
-
-
-
 
 
 ---
@@ -59,6 +46,11 @@
 - [DOM相关问题](submenu/dom.md)
 - Cookie和session的区别
 - [HTTP相关问题](submenu/http.md)
+- [实现一个promise](submenu/promise.md)
+
+
+
+
 
 ---
 
@@ -76,10 +68,8 @@
 - [【Q】js中函数调用的方法？](#qjs中函数调用的方法)
 - [【Q】preventDefault和stopPropagation区别？](#qpreventDefault和stopPropagation区别)
 - [【Q】ES6中let、const和var区别，说下块级作用域？](#qES6中let、const和var区别，说下块级作用域)
-
-
-
-
+- [【Q】什么是变量提升？函数提升？](#q什么是变量提升？函数提升)
+- [【Q】下面这个ul，如何点击每一列的时候alert其index?](#q下面这个ul，如何点击每一列的时候alert其index)
 
 
 
@@ -198,6 +188,41 @@ let、const、var 都是声明变量的。
 let和const定义的变量是块级作用域的。var不是。
 
 const定义的变量的值是不可改变的。
+
+
+
+### 【Q】什么是变量提升？函数提升？
+
+变量声明和函数声明都会提升，但函数会提升到变量前。
+
+
+
+### 【Q】下面这个ul，如何点击每一列的时候alert其index?
+
+```
+	<ul id=”test”>
+		<li>这是第一条</li>
+		<li>这是第二条</li>
+		<li>这是第三条</li>
+	</ul>
+```
+
+
+
+答案：
+
+```
+let ul = document.getElementById("test");
+let li = ul.getElementsByTagName("li");
+let len = li.length;
+for (let i = 0; i < len; i++) {
+    li[i].addEventListener("click", function (e) {
+        alert("domindex: " + i);
+    })
+}
+```
+
+
 
 
 
