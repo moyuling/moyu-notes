@@ -22,7 +22,7 @@
 
   
 
-- [test](submenu/01test.md)
+- [test](submenu/01.md)
 
 ---
 
