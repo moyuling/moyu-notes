@@ -3,7 +3,7 @@
 ### 复杂答案的目录：
 
 - [【Q】CSS中具有继承性的属性？](submenu/css中具有继承性的属性.md)
-- [【Q】specified value,computed value,used value计算方法](submenu/specified-value,computed value,used value计算方法.md)
+- [【Q】specified value,computed value,used value计算方法](submenu/specified-value,computed-value,used-value计算方法.md)
 - [【Q】PNG,GIF,JPG的区别及如何选](submenu/PNG,GIF,JPG的区别及如何选.md)
 - [【Q】外边距折叠(collapsing margins)](submenu/外边距折叠.md)
 - [【Q】display,float,position的关系](submenu/display,float,position的关系.md)
