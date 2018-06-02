@@ -1,4 +1,4 @@
-【Q】display,float,position的关系
+### 【Q】display,float,position的关系
 
 1. 如果`display`为none，元素不显示。
 2. 否则，如果position值为absolute或者fixed，元素绝对定位，float的计算值为none，display根据下面的表格进行调整。

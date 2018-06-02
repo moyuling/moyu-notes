@@ -1,4 +1,4 @@
-【14】PNG,GIF,JPG的区别及如何选
+### 【Q】PNG,GIF,JPG的区别及如何选
 
 GIF:
 

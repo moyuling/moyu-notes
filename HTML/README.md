@@ -7,10 +7,17 @@
 - [【Q】HTML全局属性(global attribute)有哪些？](submenu/HTML全局属性.md)
 
 - [【Q】canvas是什么？怎么用？](submenu/canvas.md)
+
 - [【Q】SVG是什么？](submenu/SVG.md)
+
+- [【Q】html5新标签有哪些？](submenu/html5新标签有哪些.md)
+
 - [【Q】webGL] (todo:延后)
+
 - 【Q】manifest、worker、socket
+
 - 【Q】input和textarea的区别
+
 - 【Q】用一个div模拟textarea的实现
 
   
@@ -32,7 +39,12 @@
 - [【Q】xhtml1.0的书写规则](#qxhtml10的书写规则)
 - [【Q】你是如何理解HTML语义化的，有什么好处？](#q你是如何理解-html-语义化的)
 - [【Q】前端需要注意哪些SEO？](#q前端需要注意哪些seo)
-- [【Q】html5新标签有哪些？](#qhtml5新标签有哪些)
+- 
+- 
+
+
+
+
 
 ---
 
@@ -124,6 +136,8 @@ alt是图片缺失时，对图片的描述文字。
 ⑨ & 等需要被转码表示 
 
 
+
+
 ### 【Q】你是如何理解 HTML 语义化的?
 
 01，语义化，就是通过HTML标签来表示页面包含的信息。
@@ -144,6 +158,8 @@ alt是图片缺失时，对图片的描述文字。
 - 盲人可以用阅读器来阅读。
 - 使搜索引擎更好的抓取网页。利于收录。
 
+
+
 ###  【Q】前端需要注意哪些SEO?
 
 01，合理的title，description，keywords。
@@ -159,94 +175,6 @@ alt是图片缺失时，对图片的描述文字。
 06，图片加上alt和title。
 
 07，保证网站打开速度。
-
-
-
-### 【Q】html5新标签有哪些？
-
-canvas
-
-svg
-
-video
-
-audio
-
-【01】article(IE8不支持)
-
-【01】details
-
-【02】aside(IE8不支持)
-
-【03】header（IE8不支持）
-
-【04】footer（IE8不支持）
-
-【06】nav（IE8不支持）
-
-【07】section
-
-【08】figure（IE8不支持）
-
-【09】figcaption（IE8不支持）
-
-【10】embed
-
-【11】address
-
-【13】summary
-
-【14】menu
-
-【18】section
-
-【19】address
-
-【20】time
-
-------
-
-rp（IE8不支持）
-
-rt（IE8不支持）
-
-ruby（IE8不支持）
-
-------
-
-【01】hgroup
-
-------
-
-较少支持的。
-
-【01】command(没有浏览器支持)
-
-【02】datalist（IE和Safari不支持）
-
-【03】details（只有chrome支持）
-
-【04】dialog(只有chrome支持)
-
-【05】keygen（IE不支持）
-
-【06】meter（IE不支持）
-
-【07】output(IE不支持)
-
-【08】progress(IE10+支持)
-
-【09】summary（IE，firefox,opera不支持）
-
-【10】time(都不支持)
-
-【11】track（IE9和firefox和Safari不支持）
-
-【12】wbr（IE不支持）
-
-【13】bdi(只有firefix和chrome支持)
-
-
 
 
 
