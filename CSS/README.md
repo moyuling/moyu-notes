@@ -7,7 +7,7 @@
 - [【Q】PNG,GIF,JPG的区别及如何选](submenu/PNG,GIF,JPG的区别及如何选.md)
 - [【Q】外边距折叠(collapsing margins)](submenu/外边距折叠.md)
 - [【Q】display,float,position的关系](submenu/display,float,position的关系.md)
-- [【Q】css hack原理及常用hack](submenu/css hack原理及常用hack.md)
+- [【Q】css hack原理及常用hack](submenu/css-hack原理及常用hack.md)
 - 
 
 
