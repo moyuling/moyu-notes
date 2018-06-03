@@ -34,6 +34,8 @@
 
 - [【13】html5新标签有哪些？](submenu/13.md)
 
+- [【32】如果我不放入<! DOCTYPE html> ，HTML5还会工作么？](submenu/32.md)
+
 - [【33】哪些浏览器支持HTML5？](submenu/33.md)
 
 - [【58】如何在手机页面上调用九宫格数字键盘？](submenu/58.md)
