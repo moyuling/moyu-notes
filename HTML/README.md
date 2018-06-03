@@ -26,9 +26,7 @@
 
 - [【04】<img>的title和alt有什么区别？](submenu/04.md)
 
-- [【04】哪些浏览器支持HTML5？](#q哪些浏览器支持html5)
-
-  
+- [【05】doctype是什么？有什么用？](submenu/05.md)
 
 - [【06】HTML全局属性(global attribute)有哪些？](submenu/06.md)
 
@@ -41,10 +39,6 @@
 - 
 
 - 
-
-
-
-
 
 
 
