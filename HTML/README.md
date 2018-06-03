@@ -38,6 +38,8 @@
 
 - [【33】哪些浏览器支持HTML5？](submenu/33.md)
 
+- [【35】HTML5中的datalist是什么？](submenu/35.md)
+
 - [【36】HTML5中什么是不同的新的表单元素类型?](submenu/36.md)
 
 - [【58】如何在手机页面上调用九宫格数字键盘？](submenu/58.md)
