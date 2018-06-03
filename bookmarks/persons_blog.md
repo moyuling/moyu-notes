@@ -14,7 +14,23 @@
 - [尤雨溪-github](https://github.com/yyx990803)
 > vue的主开发
 
+- [JinkeyAI](https://www.jianshu.com/u/8354f5625fe4)
 
+  > 简书上的。
+
+- [xiaoiver](https://xiaoiver.github.io/tags.html)
+
+- [superman](https://github.com/superman66)
+
+  - [陈惠超的博客](http://chenhuichao.com/) 
+
+
+
+- [chenhuiYj](https://github.com/chenhuiYj)
+
+
+
+- [林鑫](https://github.com/lin-xin/blog/issues)
 
 
 
@@ -25,15 +41,7 @@
 
 ​	 
 ### 未整理的。临时放置。
-- [JinkeyAI](https://www.jianshu.com/u/8354f5625fe4)
-  >简书上的。
-
-- [xiaoiver](https://xiaoiver.github.io/tags.html)
-
-- [superman](https://github.com/superman66)
-
-  - [陈惠超的博客](http://chenhuichao.com/) 
-
+- 
 
 
 
