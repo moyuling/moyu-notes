@@ -30,7 +30,7 @@
 
 
 
-
+- [【25】请描述<script>、<script async>和<script defer>的区别？](submenu/25.md)
 
 - [【31】为什么HTML5里面我们不需要DTD（Document Type Definition文档类型定义）](submenu/31.md)
 
