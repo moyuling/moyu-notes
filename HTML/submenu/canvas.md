@@ -2,7 +2,23 @@
 
 
 
+### catalog：
 
+
+
+
+
+
+
+
+
+
+
+---
+
+
+
+### context：
 
 
 
@@ -196,7 +212,7 @@ ctx.stroke();
 
 
 
-【Q】如何使用Canvas来画一条简单的线？
+### 【Q】如何使用Canvas来画一条简单的线？
 
 ```
 <body  onload="DrawMe();">
