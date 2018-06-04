@@ -2,13 +2,10 @@
 
 ### 主题篇的目录：
 
-- [【Q】canvas主题](submenu/canvas.md)
-
-- [【Q】SVG主题](submenu/SVG.md)
-
-- [【Q】应用缓存主题](submenu/manifest.md)
-
-  
+- [canvas主题](submenu/canvas.md)
+- [SVG主题](submenu/SVG.md)
+- [应用缓存主题](submenu/manifest.md)
+- [WebGL主题](submenu/webgl.md)
 
 
 
