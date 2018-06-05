@@ -2,13 +2,12 @@
 
 ### 复杂答案的目录：
 
-- [【Q】CSS中具有继承性的属性？](submenu/css中具有继承性的属性.md)
+- 
 - [【Q】specified value,computed value,used value计算方法](submenu/specified-value,computed-value,used-value计算方法.md)
 - [【Q】PNG,GIF,JPG的区别及如何选](submenu/PNG,GIF,JPG的区别及如何选.md)
 - [【Q】外边距折叠(collapsing margins)](submenu/外边距折叠.md)
 - [【Q】display,float,position的关系](submenu/display,float,position的关系.md)
 - [【Q】css hack原理及常用hack](submenu/css-hack原理及常用hack.md)
-- 
 
 
 
@@ -16,7 +15,15 @@
 
 
 
+---
 
+
+
+### CSS面试题的目录：
+
+- [【07】CSS选择器有哪些？ ](submenu/07.md)
+- [【15】CSS中具有继承性的属性？](submenu/15.md)
+- [【18】什么是FOUC？如何避免？](submenu/18.md)
 
 ---
 
@@ -44,13 +51,7 @@
 
 ### 答案简单的罗列如下：
 
-### 【Q】什么是FOUC?如何避免？
 
-Flash Of Unstyled Content：
-
-用户定义样式表加载之前浏览器使用默认样式显示文档，用户样式加载渲染之后再从新显示文档，造成页面闪烁。
-
-解决方法：把样式表放到文档的`head`
 
 
 
