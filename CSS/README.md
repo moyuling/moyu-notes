@@ -4,7 +4,7 @@
 
 - 
 - [【Q】specified value,computed value,used value计算方法](submenu/specified-value,computed-value,used-value计算方法.md)
-- [【Q】PNG,GIF,JPG的区别及如何选](submenu/PNG,GIF,JPG的区别及如何选.md)
+- 
 - [【Q】外边距折叠(collapsing margins)](submenu/外边距折叠.md)
 - [【Q】display,float,position的关系](submenu/display,float,position的关系.md)
 - [【Q】css hack原理及常用hack](submenu/css-hack原理及常用hack.md)
@@ -22,8 +22,18 @@
 ### CSS面试题的目录：
 
 - [【07】CSS选择器有哪些？ ](submenu/07.md)
+- [【12】link与@import的区别？](submenu/12.md)
+- [【14】PNG,GIF,JPG的区别及如何选？](submenu/PNG,GIF,JPG的区别及如何选.md)
 - [【15】CSS中具有继承性的属性？](submenu/15.md)
 - [【18】什么是FOUC？如何避免？](submenu/18.md)
+
+
+
+
+
+
+
+
 
 ---
 
@@ -31,15 +41,13 @@
 
 ### 简单答案的目录：
 
-- [【Q】什么是FOUC?如何避免？](#q什么是fouc如何避免)
-- [【Q】link与@import的区别？](#qlink与import的区别)
-
 
 
 - CSS新属性。
 - 盒模型。
 - 垃圾回收。
-- 
+
+  
 
 
 
@@ -50,23 +58,6 @@
 
 
 ### 答案简单的罗列如下：
-
-
-
-
-
-### 【Q】link与@import的区别?
-
-1. `link`是HTML方式， `@import`是CSS方式
-2. `link`最大限度支持并行下载，`@import`过多嵌套导致串行下载，出现FOUC
-3. `link`可以通过`rel="alternate stylesheet"`指定候选样式
-4. 浏览器对`link`支持早于`@import`，可以使用`@import`对老浏览器隐藏样式
-5. `@import`必须在样式规则之前，可以在css文件中引用其他文件
-6. 总体来说：link优于@import
-
----
-
-
 
 
 
