@@ -1,5 +1,3 @@
-
-
 ### 主题篇的目录：
 
 - [canvas主题](submenu/canvas.md)
