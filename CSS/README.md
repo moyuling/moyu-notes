@@ -22,7 +22,8 @@
 ### CSS面试题的目录：
 
 - [【01】css的基本语句构成是？](submenu/01.md)
-
+- [【02】重置（resetting）CSS 和 标准化（normalizing）CSS 的区别是什么？](submenu/02.md)
+- [【03】描述css reset的作用？](submenu/03.md)
 - [【04】placeholder的兼容性写法](submenu/04.md)
 - [【05】css3新特性？](submenu/05.md)
 - [【07】CSS选择器有哪些？ ](submenu/07.md)
