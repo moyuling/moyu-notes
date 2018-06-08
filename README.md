@@ -68,7 +68,7 @@
 
 - [vue学习记录by魔芋](vue/vue.md)
 
-- [学习vue的步骤 to 新手](vue/how-to-lean-vue.md)
+- [学习vue的步骤 to 新手](vue/how-to-learn-vue.md)
 
 ### 100道练习题`[code]`
 
