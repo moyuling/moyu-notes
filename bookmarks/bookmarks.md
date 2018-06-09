@@ -29,6 +29,12 @@
 
 
 - [Exploring ES6 ](http://exploringjs.com/es6/)
+
+- > https://github.com/es6-org/exploring-es6(对应的中文翻译)
+  >
+  > http://es6-org.github.io/exploring-es6/ （中文版）
+  >
+  > https://github.com/ES678/Exploring-ES6（日语版）
 >魔芋：一本英文的讲解ES6的书籍。可以在线免费观看。
 
 >todo:还没有看。
@@ -126,6 +132,8 @@
 浏览器占有率：http://outdatedbrowser.com/en
 
 
+
+https://github.com/tuteng/Best-websites-a-programmer-should-visit-zh
 
 
 

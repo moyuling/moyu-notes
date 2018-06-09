@@ -7,6 +7,28 @@ learn websites：
 http://es6.ruanyifeng.com/
 
 > 作者：阮一峰
+>
+> :star: :star: :star: :star: :star:
+
+
+
+http://exploringjs.com/es6/index.html
+
+> 一本国外的讲解ES6的在线书籍，写的很好。  
+>
+> :star: :star: :star: :star: :star:
+
+
+
+https://github.com/addyosmani/es6-equivalents-in-es5
+
+> ES6 to ES5 。
+>
+> ES6如何用ES5实现。
+
+
+
+
 
 
 
