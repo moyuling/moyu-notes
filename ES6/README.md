@@ -16,6 +16,8 @@ http://exploringjs.com/es6/index.html
 
 > 一本国外的讲解ES6的在线书籍，写的很好。  
 >
+> 中文翻译：http://es6-org.github.io/exploring-es6/
+>
 > :star: :star: :star: :star: :star:
 
 

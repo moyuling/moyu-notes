@@ -15,8 +15,7 @@
 - Cookie和session的区别
 - [HTTP相关问题](submenu/http.md)
 - [实现一个promise](submenu/promise.md)
-
-
+- 
 
 
 
@@ -41,6 +40,8 @@
 
 
 
+
+
 垃圾回收。
 
 ---
@@ -57,7 +58,7 @@
 
 1种引用类型：object
 
-(魔芋：这里引申一下：function，array是一种特殊的对象。RegExp，Date，JSON是一种特殊的接口，定义很多属性和方法。)
+(魔芋：这里引申一下：function，array是一种特殊的对象。RegExp，Date，JSON是一种特殊的接口，定义了很多属性和方法。)
 
 
 
